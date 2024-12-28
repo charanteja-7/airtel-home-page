@@ -34,7 +34,7 @@ function App() {
 
               <div className="flex flex-col ">
                 <p className="text-white font-bold">Prepaid</p>
-                <p className=" cursor-pointer text-white">7732010981</p>
+                <p className=" cursor-pointer text-white">9999999999</p>
               </div>
             </div>
           </div>
